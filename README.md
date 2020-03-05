@@ -1,3 +1,3 @@
 # Person identify using transfer learning
 
-#Deep Learning, #Tensorflow-JS #CNN 
+#Python #Deep Learning, #Tensorflow-JS #CNN 
