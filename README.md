@@ -16,11 +16,16 @@ TensorFlow.js is a JavaScript Library for training and deploying machine learnin
 
 ### For Testing
 
-Clone the hole repository and extract. After that, open the retrain.html file. Then capture the 4 types of images using click the button(Rakib, Nazmul, Shemul, Mayen) .Here I captured my four friend's faces. After captured all classes of imgages, click the  'Train Network' button to train the model. After trainig, to see the prediction click the 'Start Identificatin' button to identify person. You will see the output, camera identify person with time.
+Clone the hole repository and extract. After that, open the retrain.html file. Then capture the 4 types of images using click the button(Rakib, Nazmul, Shemul, Mayen) .Here I captured my four friend's faces. After captured all classes of imgages, click the  'Train Network' button to train the model. After trainig, to see the prediction click the 'Start Identificatin' button to identify person. You will see the output, camera identify person with time uder the 'Start Identification' butto..
 
 ### Sample output
 
+###### Sample 1(Rakib)
 
 ![alt text](https://github.com/rakib-h/Person_identify-using-transfer-learning/blob/master/sample_output/Screenshot%20from%202020-03-06%2016-33-17.png)
+
+###### Sample 2(Nazmul)
+
+![alt text](https://github.com/rakib-h/Person_identify-using-transfer-learning/blob/master/sample_output/Screenshot%20from%202020-03-06%2016-34-17.png)
 
 #Python #Deep Learning, #Tensorflow-JS #CNN 
